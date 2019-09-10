@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "494437753153",
+    "firebase_url": "https://acadmate-app.firebaseio.com",
+    "project_id": "acadmate-app",
+    "storage_bucket": "acadmate-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494437753153:android:ab94560447b6fadb2e01c0",
+        "android_client_info": {
+          "package_name": "com.innoverts.acadmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494437753153-fvha73v3gma4uoti5ug9qfjl9fterqbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innoverts.acadmate",
+            "certificate_hash": "dcb99c09b121a2914d7d649f4d41883de62ce18e"
+          }
+        },
+        {
+          "client_id": "494437753153-lmai8pkfst54shdh0cth8lru3entjg6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk84mmusFXsXac0-x_axGXN6nCrqecCnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494437753153-lmai8pkfst54shdh0cth8lru3entjg6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
